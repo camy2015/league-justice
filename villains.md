@@ -5,5 +5,6 @@
 3. Flash Reverse
 4. Domsday
 5. Loki
+6. Deadshot
 
 # Notes

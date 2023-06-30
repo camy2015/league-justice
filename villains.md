@@ -6,5 +6,6 @@
 4. Domsday
 5. Loki
 6. Deadshot
+7. Harley Quinn
 
 # Notes

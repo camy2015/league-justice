@@ -7,3 +7,4 @@
 - Linterna verde
 - Robin
 - Volcan Negro
+- Cyborg

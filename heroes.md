@@ -6,3 +6,4 @@
 - Mujer Maravilla
 - Linterna verde
 - Robin
+- Volcan Negro

@@ -2,6 +2,6 @@
 
 This is repository of the League of Justice
 
-## Changes in local repository
+## New Changes in local repository
 
-This is a change in the local repository
+This is a new change in the local repository
